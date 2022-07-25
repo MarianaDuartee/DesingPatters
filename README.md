@@ -1,6 +1,6 @@
 # DesingPatters
 
-* Repositorio para guardar os exemplos que realizei de alguns padrões de projeto.
+* Repositorio para guardar os exemplos que realizei de alguns padrões de projeto
 
 ## Criacionais
 
